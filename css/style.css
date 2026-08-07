@@ -76,7 +76,7 @@ nav ul{
 
 /* ===== HOME ===== */
 
-.hero-content{
+.home-content{
     display:flex;
     align-items:center;
     justify-content:space-between;
@@ -84,12 +84,12 @@ nav ul{
     flex-wrap:wrap;
 }
 
-.hero-text,
-.hero-image{
+.home-text,
+.home-image{
     flex:1;
 }
 
-.hero-text h1{
+.home-text h1{
     font-size:3rem;
 }
 
